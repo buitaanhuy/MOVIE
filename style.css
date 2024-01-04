@@ -58,6 +58,7 @@
     grid-template-columns: repeat(5, 20%);
     margin-top: 66px;
     width: 100%;
+    margin-bottom: 20px;
 }
 
 .movie_link{
